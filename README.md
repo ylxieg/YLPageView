@@ -4,5 +4,5 @@
  
 # 支持下划线、遮盖、文字颜色渐变等功能
 
-![image](https://github.com/ylxieg/YLPageView/preview.gif)   
+![image](https://github.com/ylxieg/YLPageView/blob/master/preview.gif)   
 
